@@ -2,14 +2,7 @@ export const landingPageSchema = {
   announcement: "FREE SHIPPING",
   header: {
     logo: "NJ SONS",
-    menu: [
-      "HOME",
-      "PARTY WEAR",
-      "WINTER COLLECTION",
-      "CO ORDS",
-      "PERFECT FOR YOUR VACATION",
-      "ON SALE",
-    ],
+    menu: ["LEHENGA", "SAREES", "STITCHED SUIT", "INDO WESTERN"],
     rightIcons: [
       { id: "search", label: "SEARCH" },
       { id: "wishlist" },
